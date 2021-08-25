@@ -1,5 +1,5 @@
 Django-site/manage.py
-Django-site/mysite/
+Django-site/mysite/__pycache__/
 Django-site/Departments-app/__init__.py
 Django-site/Departments-app/admin.py
 Django-site/Departments-app/apps.py
